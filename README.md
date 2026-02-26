@@ -6,7 +6,7 @@
   <em>Developed by Imtiaz Ahmed Adar</em>
   <br />
   <br />
-  <a href="[Deployed Link](https://tinyurl.com/imtiazkicks-imtiaz)"><strong>View Demo »</strong></a>
+  <a href="https://tinyurl.com/imtiazkicks-imtiaz"><strong>View Demo »</strong></a>
   ·
   <a href="https://www.linkedin.com/in/imtiaz-ahmed-adar"><strong>Connect on LinkedIn »</strong></a>
 </p>
