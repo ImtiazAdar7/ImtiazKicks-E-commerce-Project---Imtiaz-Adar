@@ -1,0 +1,19 @@
+{
+  "name": "backend-tests",
+  "version": "1.0.0",
+  "description": "Manual tests for ImtiazKicks backend",
+  "scripts": {
+    "test:db": "node test-db.js",
+    "test:register": "node test-register.js",
+    "test:login": "node test-login.js",
+    "test:admin": "node test-admin-login.js",
+    "test:products": "node test-products.js",
+    "test:profile": "node test-profile.js",
+    "test:all": "node run-all-tests.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "dotenv": "^16.3.1",
+    "mongoose": "^8.1.1"
+  }
+}

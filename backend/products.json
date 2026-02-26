@@ -1,0 +1,154 @@
+[
+  {
+    "name": "Nike Air Max 270",
+    "brand": "Nike",
+    "price": 8999,
+    "category": "Casual",
+    "sizes": [
+      { "size": 7, "quantity": 10 },
+      { "size": 8, "quantity": 15 },
+      { "size": 9, "quantity": 12 },
+      { "size": 10, "quantity": 8 },
+      { "size": 11, "quantity": 5 }
+    ],
+    "colors": [
+      { "name": "Black/White", "hexCode": "#000000" },
+      { "name": "Red/Black", "hexCode": "#FF0000" }
+    ],
+    "description": "The Nike Air Max 270 delivers a bold look with maximum comfort. Featuring the largest Air unit yet for an incredibly smooth ride.",
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500",
+      "https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=500"
+    ],
+    "rating": 4.5,
+    "numReviews": 128,
+    "inStock": true
+  },
+  {
+    "name": "Adidas Ultraboost 22",
+    "brand": "Adidas",
+    "price": 12999,
+    "category": "Running",
+    "sizes": [
+      { "size": 7, "quantity": 8 },
+      { "size": 8, "quantity": 12 },
+      { "size": 9, "quantity": 15 },
+      { "size": 10, "quantity": 10 },
+      { "size": 11, "quantity": 6 }
+    ],
+    "colors": [
+      { "name": "Core Black", "hexCode": "#000000" },
+      { "name": "Cloud White", "hexCode": "#FFFFFF" },
+      { "name": "Solar Red", "hexCode": "#FF4500" }
+    ],
+    "description": "The Adidas Ultraboost 22 offers energy return with every stride. Perfect for runners seeking maximum comfort and performance.",
+    "images": [
+      "https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=500",
+      "https://images.unsplash.com/photo-1556906781-9a4129610a2c?w=500"
+    ],
+    "rating": 4.7,
+    "numReviews": 256,
+    "inStock": true
+  },
+  {
+    "name": "Puma RS-X³",
+    "brand": "Puma",
+    "price": 7499,
+    "category": "Lifestyle",
+    "sizes": [
+      { "size": 7, "quantity": 12 },
+      { "size": 8, "quantity": 18 },
+      { "size": 9, "quantity": 20 },
+      { "size": 10, "quantity": 15 },
+      { "size": 11, "quantity": 10 }
+    ],
+    "colors": [
+      { "name": "White/Black", "hexCode": "#FFFFFF" },
+      { "name": "Red/Blue", "hexCode": "#FF0000" }
+    ],
+    "description": "The Puma RS-X³ reinvents the running silhouette with bold design and maximum comfort. A true statement piece.",
+    "images": [
+      "https://images.unsplash.com/photo-1605348532760-5703dab5e924?w=500",
+      "https://images.unsplash.com/photo-1605348532760-5703dab5e924?w=500"
+    ],
+    "rating": 4.3,
+    "numReviews": 89,
+    "inStock": true
+  },
+  {
+    "name": "Reebok Classic Leather",
+    "brand": "Reebok",
+    "price": 6499,
+    "category": "Casual",
+    "sizes": [
+      { "size": 7, "quantity": 15 },
+      { "size": 8, "quantity": 20 },
+      { "size": 9, "quantity": 25 },
+      { "size": 10, "quantity": 18 },
+      { "size": 11, "quantity": 12 }
+    ],
+    "colors": [
+      { "name": "White", "hexCode": "#FFFFFF" },
+      { "name": "Black", "hexCode": "#000000" },
+      { "name": "Grey", "hexCode": "#808080" }
+    ],
+    "description": "The Reebok Classic Leather maintains its heritage look while providing all-day comfort. A timeless silhouette.",
+    "images": [
+      "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=500",
+      "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=500"
+    ],
+    "rating": 4.6,
+    "numReviews": 167,
+    "inStock": true
+  },
+  {
+    "name": "New Balance 574",
+    "brand": "New Balance",
+    "price": 6999,
+    "category": "Lifestyle",
+    "sizes": [
+      { "size": 7, "quantity": 10 },
+      { "size": 8, "quantity": 15 },
+      { "size": 9, "quantity": 18 },
+      { "size": 10, "quantity": 14 },
+      { "size": 11, "quantity": 8 }
+    ],
+    "colors": [
+      { "name": "Grey", "hexCode": "#808080" },
+      { "name": "Navy", "hexCode": "#000080" }
+    ],
+    "description": "The New Balance 574 combines style and comfort with its classic design and modern technology.",
+    "images": [
+      "https://images.unsplash.com/photo-1539185441755-769473a23570?w=500",
+      "https://images.unsplash.com/photo-1539185441755-769473a23570?w=500"
+    ],
+    "rating": 4.4,
+    "numReviews": 112,
+    "inStock": true
+  },
+  {
+    "name": "Nike LeBron 19",
+    "brand": "Nike",
+    "price": 14999,
+    "category": "Basketball",
+    "sizes": [
+      { "size": 8, "quantity": 6 },
+      { "size": 9, "quantity": 8 },
+      { "size": 10, "quantity": 10 },
+      { "size": 11, "quantity": 7 },
+      { "size": 12, "quantity": 5 }
+    ],
+    "colors": [
+      { "name": "Purple/Gold", "hexCode": "#800080" },
+      { "name": "Black/Red", "hexCode": "#000000" }
+    ],
+    "description": "The LeBron 19 features maximum cushioning and support for dominant performance on the court.",
+    "images": [
+      "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=500",
+      "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=500"
+    ],
+    "rating": 4.8,
+    "numReviews": 73,
+    "inStock": true
+  }
+]
