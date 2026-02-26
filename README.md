@@ -6,9 +6,7 @@
   <em>Developed by Imtiaz Ahmed Adar</em>
   <br />
   <br />
-  <a href="http://localhost:3000"><strong>View Frontend Demo »</strong></a>
-  ·
-  <a href="http://localhost:5000/api-docs"><strong>Explore API Docs »</strong></a>
+  <a href="[Deployed Link](https://tinyurl.com/imtiazkicks-imtiaz)"><strong>View Demo »</strong></a>
   ·
   <a href="https://www.linkedin.com/in/imtiaz-ahmed-adar"><strong>Connect on LinkedIn »</strong></a>
 </p>
@@ -305,6 +303,6 @@ LinkedIn: https://www.linkedin.com/in/imtiaz-ahmed-adar
 
 GitHub: https://github.com/ImtiazAdar7
 
-Project Link: https://github.com/your-username/imtiazkicks
+Project Link: [Github](https://github.com/ImtiazAdar7/ImtiazKicks-E-commerce-Project---Imtiaz-Adar)
 
 <p align="center"> <br /> <br /> <strong>Made with ❤️ by Imtiaz Ahmed Adar</strong> <br /> <sub>© 2026 ImtiazKicks. All rights reserved.</sub> </p>
